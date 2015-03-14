@@ -1,0 +1,4 @@
+require "voluntary_search_relevance_optimization/engine"
+
+module VoluntarySearchRelevanceOptimization
+end
